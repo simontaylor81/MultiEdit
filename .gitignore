@@ -8,3 +8,6 @@
 
 # Backup files
 *.bak
+
+# Roslyn cache directories
+*.ide/
